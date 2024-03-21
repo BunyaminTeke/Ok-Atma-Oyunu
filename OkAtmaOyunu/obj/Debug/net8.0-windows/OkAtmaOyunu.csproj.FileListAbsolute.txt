@@ -1,0 +1,17 @@
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\bin\Debug\net8.0-windows\OkAtmaOyunu.exe
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\bin\Debug\net8.0-windows\OkAtmaOyunu.deps.json
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\bin\Debug\net8.0-windows\OkAtmaOyunu.runtimeconfig.json
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\bin\Debug\net8.0-windows\OkAtmaOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\bin\Debug\net8.0-windows\OkAtmaOyunu.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.Form1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.Resource1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\refint\OkAtmaOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\OkAtmaOyunu.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\OkAtmaOyunu\OkAtmaOyunu\obj\Debug\net8.0-windows\ref\OkAtmaOyunu.dll
